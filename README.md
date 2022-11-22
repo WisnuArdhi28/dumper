@@ -1,10 +1,10 @@
 # Android Dumps CI
 
-![](https://github.com/AndroidDumpsCI/AndroidDumpsCI/workflows/Dump/badge.svg)
+![](https://github.com/WisnuArdhi28/dumper/workflows/DumprX/badge.svg)
 
 > CI for Android Firmwares Dumps
 
-This CI uses the [firmware_dumper](https://github.com/AndroidDumpsCI/firmware_dumper) to dump Android firmwares.
+This CI uses the [DumprX](https://github.com/WisnuArdhi28/DumprX) to dump Android firmwares.
 
 ## Update feed
 
