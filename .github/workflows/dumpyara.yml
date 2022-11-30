@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://download2284.mediafire.com/9uy87doo6n7g/2133d57mzvabdtv/RMX3630export_11_A.22_2022110412290000_GsmMafia.Com.rar
+  ROM_URL: https://rms01.realme.net/sw/RMX3630export_11_A.22_2022110412300000.zip
