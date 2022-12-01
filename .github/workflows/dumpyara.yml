@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://assorted.downloads.oppo.com/firmware/CPH1989/CPH1989EX_11_OTA_1180_all_h7seC1a6okk8.ozip
+  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%208i/21692/RMX3151export_11_A.45_2022061520320000.7z
