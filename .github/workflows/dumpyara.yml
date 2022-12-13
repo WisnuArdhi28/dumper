@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%208i/21692/RMX3151export_11_A.45_2022061520320000.7z
+  ROM_URL: https://download850.mediafire.com/3j2rxqk26ukg/wfnenqeh6l8bn0i/RMX3630export_11_A.24_2022120114240000_GsmMafia.Com.rar
