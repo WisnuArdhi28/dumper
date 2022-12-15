@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://rms01.realme.net/sw/RMX3630export_11_A.24_2022120114240000.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.15.0.SKFMIXM/miui_SWEETGlobal_V13.0.15.0.SKFMIXM_872d66a0a6_12.0.zip
