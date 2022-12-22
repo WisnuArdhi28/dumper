@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1821EX_11_OTA_1140_all_mzE2KoP1ciKp.ozip
+  ROM_URL: https://downloads.myteracube.com/T1/Android9/Teracube_S1_07_20200707110602.zip
