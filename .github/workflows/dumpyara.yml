@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: http://bigota.d.miui.com/V10.3.1.0.NAMMIXM/santoni_global_images_V10.3.1.0.NAMMIXM_20190411.0000.00_7.1_global_9219f081c4.tgz
+  ROM_URL: https://realmemespaced.wisnuardhi27.workers.dev/0:/RMX1911EX_11.C.83_1830_202211301527.ozip
