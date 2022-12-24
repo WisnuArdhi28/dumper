@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://realmemespaced.wisnuardhi27.workers.dev/0:/RMX1911EX_11.C.83_1830_202211301527.ozip
+  ROM_URL: https://rms01.realme.net/SW/realme%20service/realme%20narzo%2050%205G/216CE/RMX3572export_11_A.06_2022062212210000.7z
