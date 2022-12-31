@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://doc-14-2k-docs.googleusercontent.com/docs/securesc/2je1d57e3g771drtbe4quhspcsbjeqc8/je86ji614tppnu9jenh116gkjesekkib/1672236525000/07062488354010093269/15911237741576041373Z/1uU1QLZIPt4Q94Estq7U6Q9dsW6gqAVLC?e=download&uuid=2f81646c-8066-4e08-9995-a6804b585786&nonce=9e11kfgsncdeg&user=15911237741576041373Z&hash=1tldh6k5q45tjo2vvqt957knbgv86uc8
+  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.QCOMIXM/miui_GINKGOGlobal_V12.0.5.0.QCOMIXM_cd7fa3b131_10.0.zip
