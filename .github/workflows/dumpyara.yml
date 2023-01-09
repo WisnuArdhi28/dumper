@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.QCOMIXM/miui_GINKGOGlobal_V12.0.5.0.QCOMIXM_cd7fa3b131_10.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/redfin-ota-rq3a.211001.001-6bfcac48.zip
