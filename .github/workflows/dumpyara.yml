@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/coral-ota-rq3a.211001.001-d641dc96.zip
+  ROM_URL: https://gauss-componentotacostmanual-sg.allawnofs.com/remove-6670096d284d7f89ae08a1e7af0cdbd8/component-ota/22/12/30/373dffe4c05f4264aed5f777ba3a0307.zip
