@@ -38,7 +38,7 @@ jobs:
               GIT_CONFIG_EMAIL="wisnuardi128@gmail.com"
               GIT_GITHUB_TOKEN="${{ secrets.GIT_GITHUB_TOKEN }}"
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
-              TG_CHAT="@gudang_dummper"
+              TG_CHAT="@TPS_45"
               # GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own gitlab instance, or any public one
               echo "$GITHUB_ORG_NAME" > .github_orgname
               # echo "$GITLAB_HOSTNAME" > .gitlab_instance
