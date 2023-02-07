@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.10.0.RKEEUXM/miui_FLEUREEAGlobal_V13.0.10.0.RKEEUXM_e9ad09d751_11.0.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/cheetah-tq1a.230205.002-factory-4439927e.zip
