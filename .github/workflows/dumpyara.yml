@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.5.0.SFFTWXM/miui_ROSEMARYPTWGlobal_V13.0.5.0.SFFTWXM_bb56348edb_12.0.zip
+  ROM_URL: https://download2299.mediafire.com/x7b7paf281ugJkIJc_27mp9qg_1Vv8hynIVJ98LyZ6ZWo_Bn1gtC-bZUj_s5XQH8KYcy8VriOD9jS3bFCjOS6fdkmRc/nqxeervhksr4x6v/Infinix_Hot_8_X650B_MT6761_V224_190905.zip
