@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.5.0.SGMIDXM/miui_ICEIDGlobal_V13.0.5.0.SGMIDXM_cee4593b39_12.0.zip
+  ROM_URL: https://bigota.d.miui.com/V13.0.8.0.SKTINXM/miui_PISSARROINGlobal_V13.0.8.0.SKTINXM_78ac6e178f_12.0.zip
