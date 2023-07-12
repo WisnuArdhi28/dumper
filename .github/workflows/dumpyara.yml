@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://realmemespaced.wisnuardhi27.workers.dev/0:/ArrowOS%2011.0/Arrow-v11.0-ginkgo-UNOFFICIAL-20221217-VANILLA.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/lynx-tq3a.230705.001-factory-fd7548f2.zip?hl=id
