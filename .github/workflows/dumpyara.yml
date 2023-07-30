@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/lynx-tq3a.230705.001-factory-fd7548f2.zip?hl=id
+  ROM_URL: https://bigota.d.miui.com/V13.0.6.0.SGKIDXM/miui_SPESNIDGlobal_V13.0.6.0.SGKIDXM_490bbe3708_12.0.zip
