@@ -62,4 +62,4 @@ jobs:
               bash dumper.sh "$ROM_URL"
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V13.0.6.0.SGKIDXM/miui_SPESNIDGlobal_V13.0.6.0.SGKIDXM_490bbe3708_12.0.zip
+  ROM_URL: https://mirrorbits.lineageos.org/full/ginkgo/20230801/lineage-18.1-20230801-nightly-ginkgo-signed.zip
